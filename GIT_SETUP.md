@@ -14,3 +14,7 @@ For this lab, the repository was created in Github and then it was cloned to my 
 Main branch change.
 
 Feature branch change.
+
+## Reflection 
+
+Git helps support the software development life cycle because it keeps track of the changes during the project. During planning the branches can be used to organize ideas or features without changing the main project right away. During the development comments make it easier to see what was changed and be able to go back if something breaks. During collaboration, Git helps team members be able to work on the same project and merge their work together while resolving conflicts when it is needed.   
